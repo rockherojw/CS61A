@@ -1,0 +1,6 @@
+'multiple-attempts', (0, 71)
+'multiple-last_attempt', (512, 74)
+'multiple-correct', (1024, 70)
+'unique_digits-attempts', (1536, 71)
+'unique_digits-last_attempt', (2048, 74)
+'unique_digits-correct', (2560, 70)

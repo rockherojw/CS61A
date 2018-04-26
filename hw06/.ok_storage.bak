@@ -1,0 +1,6 @@
+'make_withdraw-attempts', (0, 71)
+'make_withdraw-last_attempt', (512, 74)
+'make_joint-attempts', (1024, 71)
+'make_joint-last_attempt', (1536, 74)
+'VendingMachine-attempts', (2048, 71)
+'VendingMachine-last_attempt', (2560, 74)
